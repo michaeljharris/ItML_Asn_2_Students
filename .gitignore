@@ -130,3 +130,6 @@ dmypy.json
 
 # Solution
 _*
+sample_sol.ipynb
+*sol*.ipynb
+sample_sol.ipynb
